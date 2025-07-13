@@ -10,4 +10,4 @@ import"./assets/modulepreload-polyfill-B5Qt9EMX.js";import{S as i}from"./assets/
   </a>
 </li>
 `,e=p.map(o=>t(o)).join("");a.cardList.innerHTML=e;new i(".gallery a",{captionsData:"alt",captionPosition:"bottom",captionDelay:250});
-//# sourceMappingURL=1-galeery.js.map
+//# sourceMappingURL=1-gallery.js.map
